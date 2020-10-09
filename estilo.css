@@ -1,0 +1,12 @@
+#logo>img {
+    width: 160px;
+    height: 200px;
+}
+h1 {
+    display: inline;
+    font-size: 3em;
+    justify-content: center;
+}
+#logo{
+  align-items: flex-end;
+}
