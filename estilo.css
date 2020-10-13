@@ -1,12 +1,35 @@
-#logo>img {
-    width: 160px;
-    height: 200px;
+
+.logo{
+    width: 90px;
+    height: 110px;
 }
-h1 {
-    display: inline;
-    font-size: 3em;
-    justify-content: center;
+#logo li{
+  list-style-type: none;
+  justify-content: center;
+  display: inline;
 }
-#logo{
-  align-items: flex-end;
+body {
+  margin: 0;
+  font-family: 'Didact Gothic', sans-serif;
+  background-image: url("imagenes/fondo/5.png");
+  background-repeat: no-repeat;
+  Background-size:cover;
+  background-attachment: fixed;
 }
+
+h2{
+    /*display: contents;*/
+    font-size: 4em;
+    font-family: 'Fjalla One', sans-serif;
+    /*margin-left: 0;*/
+    color: #FFB200;
+}
+
+/*h1 {
+  color: black;
+  margin-left: 0px;
+  margin-top: -150px;
+  margin-bottom: auto;
+  display: block;
+  vertical-align: center;
+}*/
