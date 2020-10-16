@@ -19,12 +19,20 @@ body {
 
 h2{
     /*display: contents;*/
-    font-size: 4em;
+    font-size: 7em;
     font-family: 'Fjalla One', sans-serif;
     /*margin-left: 0;*/
     color: #FFB200;
 }
-
+.menu{
+  display:block!important;
+}
+.title-logo{
+  text-align: center!important;
+}
+.img-logo{
+  text-align: center;
+}
 /*h1 {
   color: black;
   margin-left: 0px;
